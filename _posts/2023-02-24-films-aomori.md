@@ -32,6 +32,7 @@ hidden: true
 站在车站二楼向外拍摄的照片
 
 ![enter description here](..\assets\2023-02-24-aomori\aomori1.jpg)
+
 车站外的时钟
 
 ![enter description here](..\assets\2023-02-24-aomori\aomori4.jpg)
@@ -46,16 +47,18 @@ hidden: true
 睡魔之家（ねぶたの家）是青森站旁边的一个博物馆，里面展出了青森睡魔祭的各种花车（很大型的纸灯笼），还有各种关于睡魔祭的讲解。睡魔之家是一个很漂亮的红色建筑，下图左侧的建筑就睡魔之家。
 
 ![enter description here](..\assets\2023-02-24-aomori\aomori2.jpg)
+
 睡魔之家里有各种各样的睡魔祭花车，可以随便拍照，有一些还可以直接上手摸，我用手机拍了一些照片。
 
 龙王的花车
 
 ![enter description here](..\assets\2023-02-24-aomori\nebuta1.jpg)
+
 造型有点像中国古典神话里的人物
 
 ![enter description here](..\assets\2023-02-24-aomori\nebuta2.jpg)
-![enter description here](..\assets\2023-02-24-aomori\nebuta3.jpg)
 
+![enter description here](..\assets\2023-02-24-aomori\nebuta3.jpg)
 
 
 临走之前买了一个睡魔的小冰箱贴
