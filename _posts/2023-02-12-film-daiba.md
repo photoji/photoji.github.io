@@ -4,6 +4,7 @@ title: "东京胶片日志 - 台场"
 subtitle: "Shooting films in Tokyo - Daiba"
 author: yunyu
 categories: [ Films ]
+image: ../assets/2023-02-12-daiba/daiba0.jpg
 description: "靠海的人工陆地。"
 ---
 

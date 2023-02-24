@@ -4,6 +4,7 @@ title: "日本胶片日志 - 京都"
 subtitle: "Shooting Films in Japan - Kyoto"
 author: yunyu
 categories: [ Films ]
+image: ../assets/2023-02-12-kyoto/kyoto0.jpg
 description: "寺庙和神社遍地开花。"
 ---
 
