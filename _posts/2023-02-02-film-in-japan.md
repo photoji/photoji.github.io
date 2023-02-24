@@ -25,23 +25,23 @@ featured: true
 总而言之，现在每拍一卷胶卷都是一次钱包的大出血，但是看见扫出来的照片所带来的喜悦又可以冲散钱包出血的痛，毕竟在日本真的很容易拍出漂亮的照片。在日本停留的最后两个月里，我决定拿起相机疯狂地拍拍拍，毕竟过了这个村就没这个店了。我在博客里增加了一个新的tag：**Film Photography**，用来记录我拍下的照片。洗出来的照片我会上传到博客，总结在下面的目录里：
 
 
+
+
 ### 东京
 
-1. **[台场](https://jyyyjyyyj.github.io/2023-02-12-film-daiba/)**
-
-2. **[葛西临海公园·新宿御苑](https://photoyunyu.github.io/film-park1/)**
+1. **[葛西临海公园·新宿御苑](https://photoyunyu.github.io/film-park1/)**
 
 ### 神奈川
 
-1. **[横滨](https://jyyyjyyyj.github.io/2023-02-02-film-yokohama1/)**
+#1. **[横滨](https://jyyyjyyyj.github.io/2023-02-02-film-yokohama1/)**
 
 ### 关西
 
-1. **[奈良](https://jyyyjyyyj.github.io/2023-02-04-film-nara/)**
+#1. **[奈良](https://jyyyjyyyj.github.io/2023-02-04-film-nara/)**
 
-2. **[京都](https://jyyyjyyyj.github.io/2023-02-12-film-kyoto/)**
+#2. **[京都](https://jyyyjyyyj.github.io/2023-02-12-film-kyoto/)**
 
-3. **[神户·大阪](https://photoyunyu.github.io/film-kobe/)**
+1. **[神户·大阪](https://photoyunyu.github.io/film-kobe/)**
 
 ### 东北·北海道
 
