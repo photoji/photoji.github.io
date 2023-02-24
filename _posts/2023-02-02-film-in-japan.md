@@ -5,6 +5,7 @@ author: yunyu
 tags: [ Films ]
 layout: post
 description: "在日本的胶片摄影。"
+image: ../assets/images/roppongi_small.jpg
 featured: true
 ---
 
