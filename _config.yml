@@ -1,7 +1,7 @@
 # Site
-name: "Yunyu"
+name: "Yunyu's Photo Blog"
 title: "Yunyu's Photo Blog"
-description: "用于记录旅行和摄影的博客."
+description: "用于记录旅行和摄影的博客。"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: 
