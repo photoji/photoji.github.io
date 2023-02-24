@@ -33,7 +33,7 @@ authors:
    Yunyu:
     name: Yunyu
     display_name: Yunyu
-    avatar: '../assets/images/avatar.jpg'
+    avatar: 'assets/images/avatar.jpg'
     description: "The author."
 
 # Plugins
