@@ -1,6 +1,7 @@
 ---
 title: "日本胶片日志"
 subtitle: "Shooting films in Japan"
+author: yunyu
 tags: [ Films ]
 layout: post
 description: "在日本的胶片摄影。"
