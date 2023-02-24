@@ -48,7 +48,7 @@ description: "位于日本本州最北部的青森。"
 
 ![enter description here](..\assets\2023-02-24-aomori\nebuta1.jpg)
 
-造型有点像中国古典神话里的人物
+莫名想到了嫦娥
 
 ![enter description here](..\assets\2023-02-24-aomori\nebuta2.jpg)
 
