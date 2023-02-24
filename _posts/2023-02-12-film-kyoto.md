@@ -27,19 +27,19 @@ description: "寺庙和神社遍地开花。"
 
 鸭川河岸的建筑
 
-![enter description here](../assets/2022-02-12-kyoto/kamo1.jpg)
+![enter description here](../assets/2023-02-12-kyoto/kamo1.jpg)
 
-![enter description here](../assets/2022-02-12-kyoto/kamo2.jpg)
+![enter description here](../assets/2023-02-12-kyoto/kamo2.jpg)
 
 呼啸而过的电车
 
-![enter description here](../assets/2022-02-12-kyoto/kamo5.jpg)
+![enter description here](../assets/2023-02-12-kyoto/kamo5.jpg)
 
 
 
 鸭川三角洲，在这里可以踩着大石头过河。这个场景在京阿尼的动画《玉子市场》里出现过。
 
-![enter description here](../assets/2022-02-12-kyoto/kamo4.jpg)
+![enter description here](../assets/2023-02-12-kyoto/kamo4.jpg)
 **寺庙和神社**
 
 京都的寺庙和神社特别特别多，我感觉在某些区域走两步就能遇到一个寺庙，我在去年12月的时候去过清水寺和金阁寺，这次旅行去了另外几个比较有名的寺庙和神社，比如三十三间堂，下鸭神社，南禅寺等等。
@@ -49,7 +49,7 @@ description: "寺庙和神社遍地开花。"
 
 去的时候是阴天（似乎每次去京都都是阴天），但是金阁寺外面的金箔还是很闪，如果晴天去应该会更闪。
 
-![enter description here](../assets/2022-02-12-kyoto/temp1.jpg)
+![enter description here](../assets/2023-02-12-kyoto/temp1.jpg)
 
 
 **南禅寺**
@@ -59,47 +59,47 @@ description: "寺庙和神社遍地开花。"
 
 可以看见这张照片里只有零零散散的几对游客，由于来的时间都差不多，我基本上是跟在他们屁股后面逛完的南禅寺。左边是一对穿和服的日本情侣，中间是一对白人老夫妇，有个日本导游在给他们拍照，右侧是两个韩国女孩（ps：我感觉京都的游客有一大半都是韩国人）。
 
-![enter description here](../assets/2022-02-12-kyoto/nan2.jpg)
+![enter description here](../assets/2023-02-12-kyoto/nan2.jpg)
 
 再走近一点，光秃秃的树杆子看上去其实也不丑。
 
-![enter description here](../assets/2022-02-12-kyoto/nan1.jpg)
+![enter description here](../assets/2023-02-12-kyoto/nan1.jpg)
 
 
 **街道，路边，小庭院**
 
 我觉得京都的街道真的特别好看，两侧都是古老的小房子，有些人家里还会修建漂亮的庭院，工作日没什么游客，一个人漫步在这些小道上感觉非常棒。
 
-![enter description here](../assets/2022-02-12-kyoto/road1.jpg)
+![enter description here](../assets/2023-02-12-kyoto/road1.jpg)
 
 去下鸭神社的路上拍的，当时短暂地出了一会太阳
 
-![enter description here](../assets/2022-02-12-kyoto/road2.jpg)
+![enter description here](../assets/2023-02-12-kyoto/road2.jpg)
 
 
 飛出し注意，意思是注意路边突然窜出来的人
 
-![enter description here](../assets/2022-02-12-kyoto/road3.jpg)
+![enter description here](../assets/2023-02-12-kyoto/road3.jpg)
 
 去南禅寺的路上拍的，一路上只有我一个人，路边全是这种复古风格的住宅
 
-![enter description here](../assets/2022-02-12-kyoto/road4.jpg)
+![enter description here](../assets/2023-02-12-kyoto/road4.jpg)
 
 三十三间堂对面的寺庙里停着的小卡车。
 
-![enter description here](../assets/2022-02-12-kyoto/car1.jpg)
+![enter description here](../assets/2023-02-12-kyoto/car1.jpg)
 
 
 一间住宅门口的自行车
 
-![enter description here](../assets/2022-02-12-kyoto/car3.jpg)
+![enter description here](../assets/2023-02-12-kyoto/car3.jpg)
 
 清水五条附近的一条街，街道上有一个人力车夫。当时是傍晚，街道两侧的灯都亮了。其实如果用彩色胶片拍效果会更好，只不过车夫走得太快，当时还在下雨，我撑着伞追不上他，也来不及从包里掏出35DC，只能拿出口袋里的XA临时抓拍了一张。
 
-![enter description here](../assets/2022-02-12-kyoto/car2.jpg)
+![enter description here](../assets/2023-02-12-kyoto/car2.jpg)
 
 
 飞驰而过的电车。这是我在去伏见稻荷大社的小路上拍的，轨道下是一条小河，两侧是密密麻麻的住宅。这些住宅看上去都有些年代了，住的都是一些老人（不会被电车吵得睡不着么）。拍照的时候电车离我很近，因为电车到来之前我刚刚猫着腰钻过轨道下高度1.4m的小隧道，倘若电车正好在我钻隧道的时候来了……感觉会很刺激。
 
-![enter description here](../assets/2022-02-12-kyoto/car4.jpg)
+![enter description here](../assets/2023-02-12-kyoto/car4.jpg)
 
