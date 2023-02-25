@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "日本胶片日志 - 川越"
-subtitle: "Shooting films in Tokyo - Kawagoe"
+subtitle: "Shooting films in Japan - Kawagoe"
 author: ji
 categories: [ Japan, Tokyo]
 image: assets/2023-02-25-kawagoe/kawagoe3.jpg
