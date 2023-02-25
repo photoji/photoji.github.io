@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "日本胶片日志 - 川越"
+title: "日本胶片日志 - 川越市"
 subtitle: "Shooting films in Japan - Kawagoe"
 author: ji
 categories: [ Japan, Tokyo]
@@ -21,17 +21,17 @@ description: "有很多江户风建筑的小城。"
 
 一番街有很多车和人
 
-![enter description here](../ assets/2023-02-25-kawagoe/kawagoe5.jpg)
+![enter description here](../assets/2023-02-25-kawagoe/kawagoe5.jpg)
 
 傍晚的一番街
 
-![enter description here](../ assets/2023-02-25-kawagoe/kawagoe1.jpg)
+![enter description here](../assets/2023-02-25-kawagoe/kawagoe1.jpg)
 
-![enter description here](../ assets/2023-02-25-kawagoe/kawagoe3.jpg)
+![enter description here](../assets/2023-02-25-kawagoe/kawagoe3.jpg)
 
 小路
 
-![enter description here](../ assets/2023-02-25-kawagoe/kawagoe4.jpg)
+![enter description here](../assets/2023-02-25-kawagoe/kawagoe4.jpg)
 
 
 
@@ -39,11 +39,11 @@ description: "有很多江户风建筑的小城。"
 
 用伪宽幅模式拍摄的冰川神社
 
-![enter description here](../ assets/2023-02-25-kawagoe/kawagoe2.jpg)
+![enter description here](../assets/2023-02-25-kawagoe/kawagoe2.jpg)
 
 庭院
 
-![enter description here](../ assets/2023-02-25-kawagoe/kawagoe7.jpg)
+![enter description here](../assets/2023-02-25-kawagoe/kawagoe7.jpg)
 
 
 ---
