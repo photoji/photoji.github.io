@@ -31,10 +31,10 @@ authors:
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   yunyu:
-    name: Yunyu
-    display_name: Yunyu
+    name: Ji
+    display_name: Ji
     avatar: 'assets/images/avatar.png'
-    description: "The creator of the blog."
+    #description: "The creator of the blog."
 
 # Plugins
 plugins:
