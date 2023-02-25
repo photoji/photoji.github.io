@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "日本胶片日志 - 青森"
-#subtitle: "Shooting films in Japan - Aomori"
+subtitle: "Shooting films in Japan - Aomori"
 author: ji
 categories: [ Japan, Tohoku ]
 image: assets/2023-02-24-aomori/aomori2.jpg
