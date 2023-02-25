@@ -5,7 +5,7 @@ subtitle: "Memory in Xiamen"
 author: ji
 categories: [ China, Past]
 image: assets/2023-02-25-xiamen/xiamen5.jpg
-description: "快乐的海滨城市。"
+description: "看海多是一件美事儿啊。"
 ---
 
 2020年的6月份，我顺利地拿到了本科毕业证书，和舍友计划着去厦门毕业旅行。虽然此时国内的新冠疫情已经被控制住了，但是人们可能还是有所顾虑，旅游业还没有完全恢复。
@@ -45,6 +45,10 @@ description: "快乐的海滨城市。"
 日出时的光景
 
 ![enter description here](../assets/2023-02-25-xiamen/000033.jpg)
+
+傍晚的海滩
+
+![enter description here](../assets/2023-02-25-xiamen/000019.jpg)
 
 
 阴天下的大海
