@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "过去的回忆 - 厦门"
-subtitle: "Memory in Xiamen"
+subtitle: "Memories in Xiamen"
 author: ji
 categories: [ China, Past]
 image: assets/2023-02-25-xiamen/xiamen5.jpg
