@@ -3,7 +3,7 @@ layout: post
 title:  "日本胶片日志 - 青森"
 #subtitle: "Shooting films in Japan - Aomori"
 author: ji
-categories: [ Films , Japan ]
+categories: [ Japan, Tohoku ]
 image: assets/2023-02-24-aomori/aomori2.jpg
 description: "位于日本本州最北部的青森。"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "日本胶片日志 - 横滨"
 subtitle: "Shooting films in Japan - Yokohama"
 author: ji
-categories: [ Films , Japan ]
+categories: [ Japan, Kanagawa ]
 image: assets/2023-01-31-yokohama/yk2.jpg
 description: "时髦的海滨城市。"
 ---
