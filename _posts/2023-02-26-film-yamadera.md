@@ -82,7 +82,7 @@ description: "被大雪覆盖的地方。"
 
 ![enter description here](../assets/2023-02-26-yamadera/yt11.jpg)
 
-仙山线缓缓开来，因为这是下一卷里的第一张胶片。
+仙山线缓缓开来，这是下一卷里的第一张胶片。
 
 
 ![enter description here](../assets/2023-02-26-yamadera/yt10.jpg)
