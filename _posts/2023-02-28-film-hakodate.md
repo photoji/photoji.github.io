@@ -43,7 +43,7 @@ Dear passengers, this is the Hayabusa super express bound for Shin-Hakodate Hoku
 
 函馆市内交通很多都是靠电车，这个电车长得和巴士差不多（国内有些地方也有，不过我记不得是在哪了，我只记得我在《情深深雨濛濛》里见过）。电车到了一些著名景点的时候还会有中文和韩文报站。
 
-![enter description here](../assets/2023-02-28-hakodate/hkdt (4).jpg)
+![enter description here](../assets/2023-02-28-hakodate/hkdt(4).jpg)
 
 函馆有很多上下坡道，踩着积雪爬坡稍稍有点不方便。有一条很有名的坂道叫作八幡坂，它正对着大海，从上往下看能看到很漂亮的景色。
 
