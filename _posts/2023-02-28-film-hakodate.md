@@ -59,9 +59,10 @@ Dear passengers, this is the Hayabusa super express bound for Shin-Hakodate Hoku
 被雪水冲刷过的地面有建筑的倒影
 
 ![enter description here](../assets/2023-02-28-hakodate/hkdt(12).jpg)
+
 海边风景。
 
-
+![enter description here](../assets/2023-02-28-hakodate/hkdt(21).jpg)
 
 **立侍岬**
 
