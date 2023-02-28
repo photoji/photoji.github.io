@@ -5,6 +5,8 @@ subtitle: Shooting films in Japan - Hakodate
 categories: [Japan, Tohoku]
 author: ji
 image: assets/2023-02-28-hakodate/hkdt(7).jpg
+featured: true
+hidden: true
 description: "雪国。"
 ---
 

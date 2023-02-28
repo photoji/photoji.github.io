@@ -4,8 +4,6 @@ subtitle: "Shooting films in Tokyo - my school"
 author: ji
 categories: [Japan, Tokyo]
 image: assets/todai/todai0.jpg
-featured: true
-hidden: true
 description: "我的学校。"
 ---
 
