@@ -25,7 +25,7 @@ description: "从东京出发的日归旅行。"
 
 在网红打卡点之一——罗森便利店对面拍下的照片。有一大堆游客站在这里合照。
 
-![enter description here](../assets/2023-03-01-kawaguchiko/kawa9_1.jpg)
+![enter description here](../assets/2023-03-01-kawaguchiko/kawa9.jpg)
 
 其实上图的罗森不远处还有另一个罗森，我认为那里更加适合拍照，而且鲜有游客驻足。我坐公交时路过了那儿，在车里隔着玻璃按下了快门。
 
@@ -60,6 +60,7 @@ description: "从东京出发的日归旅行。"
 伪宽幅模式拍摄的浅间神社。
 
 ![enter description here](../assets/2023-03-01-kawaguchiko/kawa1.jpg)
+
 两棵杉树。
 
 ![enter description here](../assets/2023-03-01-kawaguchiko/kawa2.jpg)
@@ -67,6 +68,7 @@ description: "从东京出发的日归旅行。"
 挂着绘马的架子。
 
 ![enter description here](../assets/2023-03-01-kawaguchiko/kawa3.jpg)
+
 一个小的山神社。
 
 ![enter description here](../assets/2023-03-01-kawaguchiko/kawa12.jpg)
