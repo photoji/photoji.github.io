@@ -36,6 +36,8 @@ description: "位于日本本州最北部的青森。"
 
 ![enter description here](..\assets\2023-02-24-aomori\aomori5.jpg)
 
+![enter description here](..\assets\2023-02-24-aomori\aomori11.jpg)
+
 **睡魔之家**
 
 睡魔之家（ねぶたの家）是青森站旁边的一个博物馆，里面展出了青森睡魔祭的各种花车（很大型的纸灯笼），还有各种关于睡魔祭的讲解。睡魔之家是一个很漂亮的红色建筑，下图左侧的建筑就睡魔之家。
@@ -71,13 +73,25 @@ description: "位于日本本州最北部的青森。"
 
 ![enter description here](..\assets\2023-02-24-aomori\aomori6.jpg)
 
-**弘前**
+**2023-03-01更新：弘前**
 
 在逛完睡魔之家和苹果工厂之后，我搭乘奥羽本线去了弘前。原本是想去弘前公园，谁知道我在从弘前站走去公园的路上把JR pass（有了它可以无限乘坐东北区域的电车和新干线）给弄丢了，可能是掏相机的时候给带出来了，也可能是走路打滑的时候从口袋里掉出来了。这下我瞬间没了游玩的心情，还没走到弘前公园就原路返回一路找我的JR pass，结果没找到，问了车站的工作人员也说没有人捡到。回程的票只能自己掏钱买了，损失惨重。
 
-在弘前拍的照片在另一台相机里，还没有洗出来。
+在步行去弘前公园的路上拍了几张照片。
 
+弘前有很多雕像
 
+![enter description here](..\assets\2023-02-24-aomori\aomori8.jpg)
+
+![enter description here](..\assets\2023-02-24-aomori\aomori10.jpg)
+
+前往弘前公园的地下通道
+
+![enter description here](..\assets\2023-02-24-aomori\aomori9.jpg)
+
+步履蹒跚的老奶奶
+
+![enter description here](..\assets\2023-02-24-aomori\aomori7.jpg)
 
 ---
 
