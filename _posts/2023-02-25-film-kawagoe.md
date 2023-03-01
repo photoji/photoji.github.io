@@ -3,7 +3,7 @@ layout: post
 title: "日本胶片日志 - 川越市"
 subtitle: "Shooting films in Japan - Kawagoe"
 author: ji
-categories: [ Japan, Tokyo]
+categories: [ Japan, Tokyo Surroundings]
 image: assets/2023-02-25-kawagoe/kawagoe3.jpg
 description: "有很多江户风建筑的小城。"
 ---
