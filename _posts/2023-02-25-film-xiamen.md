@@ -3,7 +3,7 @@ layout: post
 title: "2020年的回忆 - 厦门"
 subtitle: "Memories in Xiamen 2020"
 author: ji
-categories: [ China, Past]
+categories: [ China, past]
 image: assets/2023-02-25-xiamen/xiamen5.jpg
 description: "看海多是一件美事儿啊。"
 ---
