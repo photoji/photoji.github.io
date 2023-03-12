@@ -28,7 +28,7 @@ description: "四斤大豆，三根皮带。"
 
 镰仓站旁的江之电乘坐口。
 
-![](E:\photoji.github.io\assets\2023-03-12-kamakura\k4.jpg)
+![](..\assets\2023-03-12-kamakura\k4.jpg)
 
 
 
@@ -38,7 +38,7 @@ description: "四斤大豆，三根皮带。"
 
 
 
-![](E:\photoji.github.io\assets\2023-03-12-kamakura\k6.jpg)
+![](..\assets\2023-03-12-kamakura\k6.jpg)
 
 
 
@@ -94,7 +94,7 @@ description: "四斤大豆，三根皮带。"
 
 
 
-![](E:\photoji.github.io\assets\2023-03-12-kamakura\k3.jpg)
+![](..\assets\2023-03-12-kamakura\k3.jpg)
 
 
 
