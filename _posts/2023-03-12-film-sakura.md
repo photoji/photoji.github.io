@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "日本胶片日志 - 东京樱花季"
-subtitle: "Shooting films in Japan - sakura in Tokyo"
+title:  "东京胶片日志 - 樱花季"
+subtitle: "Shooting films in Tokyo - sakura"
 author: ji
-categories: [ Japan ]
+categories: [ Japan, Tokyo ]
 image: assets\2023-03-12-sakura\s3.jpg
 description: "春よ、来い。"
 ---
