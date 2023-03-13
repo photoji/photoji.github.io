@@ -4,6 +4,7 @@ title:  "东京胶片日志 - 都内闲逛1"
 subtitle: "Shooting films in Tokyo - street 1"
 author: ji
 categories: [ Japan, Tokyo ]
+hidden: true
 image: assets\2023-03-13-street\2023-02-28 191228.jpg
 description: "到处乱拍照。"
 ---
