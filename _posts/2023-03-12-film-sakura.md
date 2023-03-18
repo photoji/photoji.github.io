@@ -15,9 +15,8 @@ description: "春よ、来い。"
 （这次我试着给博客加个bgm，看看效果）
 
 
+<audio ref='themeSong' src="https://github.com/photoji/photoji.github.io/tree/master/assets/2023-03-12-sakura/F.I.R. - 雨樱花.mp4" autoPlay loop></audio>
 
-
-https://user-images.githubusercontent.com/126250589/226103601-d58f0cac-cdc2-45d5-8762-8c3d55f58ec0.mp4
 
 
 
