@@ -18,6 +18,10 @@ Dear passengers, this is the Hayabusa super express bound for Shin-Hakodate Hoku
 
 万万没想到的是，因为我的一时兴起而添加进来的函馆行程，反而成了整个东北之旅中最最难忘的一段旅行。
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3WPiMMaxoPoE4jDwgRaAXF?utm_source=generator" width="40%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 在新青森站，隼号新干线入站的瞬间。
 
 ![enter description here](../assets/2023-02-28-hakodate/hkdt(6).jpg)
