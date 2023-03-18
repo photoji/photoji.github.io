@@ -14,11 +14,11 @@ description: "春よ、来い。"
 
 （这次我试着给博客加个bgm，看看效果）
 
-<!--This Way Must let Repository Public-->
-<script>
-var audio = new Audio("..\assets\2023-03-12-sakura\bgm.mp3")
-audio.play()
-</script>
+
+
+
+https://user-images.githubusercontent.com/126250589/226103601-d58f0cac-cdc2-45d5-8762-8c3d55f58ec0.mp4
+
 
 
 ### 木场公园
