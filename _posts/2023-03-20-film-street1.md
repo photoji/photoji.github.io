@@ -4,7 +4,6 @@ title:  "东京胶片日志 - 东京街头I"
 subtitle: "Shooting films in Tokyo - street 1"
 author: ji
 categories: [ Japan, Tokyo ]
-hidden: true
 image: assets\2023-03-13-street\2023-02-28 191228.jpg
 description: "到处乱拍照。"
 ---
@@ -83,14 +82,6 @@ description: "到处乱拍照。"
 
 
 
-傍晚的六本木，中间红色的建筑就是东京塔。
-
-晚上拍胶片噪点挺明显的，并不太好看。
-
-![](..\assets\2023-03-13-street\6.jpg)
-
-
-
 **东京站**
 
 坐在电车里向外拍的照片，上班族在等地铁。
@@ -148,6 +139,10 @@ description: "到处乱拍照。"
 ![](..\assets\2023-03-13-street\2023-03-11 165218.jpg)
 
 
+
+**关于照片**
+
+照片的时间跨度比较长，具体用了什么胶卷已经记不住了。使用到的相机是pentax espio145m以及olympus 35dc。
 
 
 
