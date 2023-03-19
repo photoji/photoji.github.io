@@ -15,7 +15,9 @@ description: "春よ、来い。"
 （这次我试着给博客加个bgm，看看效果）
 
 
-![bgm](..\assets\2023-03-12-sakura\F.I.R. - 雨樱花.mp3)
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="..\assets\2023-03-12-sakura\music.mp3">
+</audio>
 
 
 ### 木场公园
