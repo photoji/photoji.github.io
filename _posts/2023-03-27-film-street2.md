@@ -4,7 +4,7 @@ title:  "东京胶片日志 - 东京街头II （大都会胶卷特辑）"
 subtitle: "Shooting films in Tokyo - street 2 (using Lomochrome Metropolis)"
 author: ji
 categories: [ Japan, Tokyo ]
-image: assets\2023-03-27-street2\IMG_8348
+image: assets\2023-03-27-street2\IMG_8348.JPG
 description: "巧思第一卷。"
 ---
 
