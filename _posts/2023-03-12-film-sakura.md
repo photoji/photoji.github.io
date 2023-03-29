@@ -78,7 +78,7 @@ A closer look.
 
 
 
-![](..\assets\2023-03-12-sakura\IMG_8385.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8385.JPG)
 
 
 
@@ -86,13 +86,13 @@ A closer look.
 
 
 
-![](..\assets\2023-03-12-sakura\IMG_8374.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8374.JPG)
 
 
 
 一张特写，我很喜欢这张。
 
-![](..\assets\2023-03-12-sakura\IMG_8372.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8372.JPG)
 
 
 
@@ -104,11 +104,11 @@ A closer look.
 
 
 
-![](..\assets\2023-03-12-sakura\IMG_8365.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8365.JPG)
 
 
 
-![](..\assets\2023-03-12-sakura\IMG_8378.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8378.JPG)
 
 
 
@@ -118,7 +118,7 @@ A closer look.
 
 
 
-![](..\assets\2023-03-12-sakura\IMG_8433.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8433.JPG)
 
 
 
@@ -128,11 +128,11 @@ A closer look.
 
 
 
-![](..\assets\2023-03-12-sakura\IMG_8384.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8384.JPG)
 
 
 
-![](..\assets\2023-03-12-sakura\IMG_8373.jpg)
+![](..\assets\2023-03-12-sakura\IMG_8373.JPG)
 
 
 
