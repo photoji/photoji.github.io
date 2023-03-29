@@ -5,7 +5,7 @@ subtitle: "Shooting films in Japan- my last trip in Hokuriku"
 author: ji
 categories: [ Japan, Hokuriku]
 image: assets\2023-03-29-toyama\IMG_8424.JPG
-description: "在日本的最后一次远途旅行。"
+#description: "在日本的最后一次远途旅行。"
 ---
 
 
