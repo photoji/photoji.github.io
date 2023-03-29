@@ -6,6 +6,7 @@ author: ji
 categories: [ Japan, Hokuriku ]
 image: assets\2023-03-29-toyama\IMG_8424.JPG
 description: "最后一次旅行。"
+hidden: true
 ---
 
 
