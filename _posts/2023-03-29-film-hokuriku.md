@@ -27,7 +27,7 @@ image: assets\2023-03-29-toyama\IMG_8424.JPG
 
 
 
-我在北陆主要去了富山（Toyama）和飛騨高山（Hida·Takayama），由于时间限制，倒是没去北陆最大的金沢（Kanazawa）。
+我在北陆主要去了富山（Toyama）和飛騨高山（Hida·Takayama），由于时间限制，倒是没去北陆第一城市金沢（Kanazawa）。
 
 
 
