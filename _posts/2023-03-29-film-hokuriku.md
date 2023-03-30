@@ -5,7 +5,7 @@ subtitle: "Shooting films in Tokyo - Hokuriku 1"
 author: ji
 categories: [ Japan, Hokuriku ]
 image: assets\2023-03-27-street2\IMG_8335.JPG
-description: "最后一次旅行"
+excerpt: "在日本的最后一次远途旅行"
 hidden: true
 ---
 
