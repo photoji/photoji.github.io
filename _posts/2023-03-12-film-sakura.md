@@ -5,7 +5,7 @@ subtitle: "Shooting films in Tokyo - sakura"
 author: ji
 categories: [ Japan, Tokyo ]
 image: assets\2023-03-12-sakura\s3.jpg
-description: "春よ、来い。"
+excerpt: "春よ、来い。"
 
 ---
 
