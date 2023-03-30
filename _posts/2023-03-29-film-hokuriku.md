@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "东京胶片日志 - 北陆（上）"
-subtitle: "Shooting films in Tokyo - Hokuriku 1"
+title:  "东京胶片日志 - 东京街头II （大都会胶卷特辑）"
+subtitle: "Shooting films in Tokyo - street 2 (using Lomochrome Metropolis)"
 author: ji
-categories: [ Japan, Hokuriku ]
+categories: [ Japan, Tokyo ]
 image: assets\2023-03-27-street2\IMG_8335.JPG
-description: "最后一次旅行"
-hidden: true
+description: "巧思第一卷。"
 ---
+
+
 
 这一期博客的内容是我用Lomography的Metropolis拍摄的东京都内的照片，也是使用巧思af拍摄的第一卷照片。
 
@@ -155,18 +156,3 @@ Lomo的大都会胶卷是可以在iso100~400的范围之内拍摄的，我拍摄
 
 
 **bgm**：ASKA - 東京
-
-
-
-
-
-
-**关于照片**
-
-均使用pentax espio145m以及kodak Ultramax400拍摄。
-
-关于富山其他地方的照片以及飛騨高山的照片，我打算放到下篇里。
-
-
-
-**bgm：**山本彩 - 月影
