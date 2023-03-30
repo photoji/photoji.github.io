@@ -5,7 +5,7 @@ subtitle: "Shooting films in Tokyo - street 2 (using Lomochrome Metropolis)"
 author: ji
 categories: [ Japan, Tokyo ]
 image: assets\2023-03-27-street2\IMG_8335.JPG
-description: "巧思第一卷。"
+excerpt: "巧思第一卷。"
 ---
 
 
@@ -13,7 +13,6 @@ description: "巧思第一卷。"
 这一期博客的内容是我用Lomography的Metropolis拍摄的东京都内的照片，也是使用巧思af拍摄的第一卷照片。
 
 （本篇博客有bgm）
-
 
 <audio id="audio" controls="" preload="none">
 <source id="mp3" src="..\assets\2023-03-27-street2\ASKA - 東京.mp3">
