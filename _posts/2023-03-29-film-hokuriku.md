@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "东京胶片日志 - 北陆（上）"
+title:  "东京胶片日志 - 北陆I"
 subtitle: "Shooting films in Tokyo - Hokuriku 1"
 author: ji
 categories: [ Japan, Hokuriku ]
-image: assets\2023-03-27-street2\IMG_8335.JPG
-excerpt: "在日本的最后一次远途旅行"
-hidden: true
+image: assets\2023-03-29-toyama\IMG_8424.JPG
+excerpt: "在日本的最后一次远途旅行。"
 ---
 
 2023年3月23日是我毕业的日子，那天东京下着雨。参加完毕业典礼之后我就匆忙地赶回了宿舍收拾行李，第二天我带着所有的行李从位于文京区目白台的宿舍里彻底搬出，并且将其中的一部分寄存在了有乐町站，然后提着剩下的行李坐上了北陆新干线前往富山，开启了我在日本的最后一次远途旅行。
