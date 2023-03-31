@@ -5,7 +5,7 @@ subtitle: "Shooting films in Tokyo - street 3"
 author: ji
 categories: [ Japan, Tokyo ]
 image: assets\2023-03-27-street2\IMG_8348.JPG
-description: "一些生活碎片。"
+excerpt: "一些生活碎片。"
 ---
 
 
