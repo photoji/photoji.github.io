@@ -4,7 +4,7 @@ title:  "日本胶片日志 - 热海"
 subtitle: "Shooting films in Japan - Atami"
 author: ji
 categories: [ Japan, Tokyo Surroundings]
-image: assets\2023-03-27-street2\IMG_8348.JPG
+image: assets\2023-04-01-atami\000059.jpg
 excerpt: "海边的小城，似乎带点地中海风格。"
 ---
 
