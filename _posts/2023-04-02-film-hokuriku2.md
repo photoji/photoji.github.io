@@ -90,7 +90,7 @@ excerpt: "为什么远途旅行的时候总是会下雨呢？"
 
 商店街
 
-![](E:\photoji.github.io\assets\2023-03-29-toyama\3.jpg)
+![](..\assets\2023-03-29-toyama\3.jpg)
 
 
 
