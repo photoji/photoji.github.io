@@ -4,7 +4,7 @@ title:  "东京胶片日志 - 吉祥寺"
 subtitle: "Shooting films in Tokyo - Kichijoji"
 author: ji
 categories: [ Japan, Tokyo]
-image: 
+image: assets\2023-04-02-kichijoji\000055.jpg
 excerpt: "据说是东京人最想住的地方。"
 ---
 
@@ -24,17 +24,17 @@ excerpt: "据说是东京人最想住的地方。"
 
 **井之头恩赐公园**
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000053.jpg)
+![](..\assets\2023-04-02-kichijoji\000053.jpg)
 
 
 
 我来的时候樱花只开了一点点。
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000058.jpg)
+![](..\assets\2023-04-02-kichijoji\000058.jpg)
 
 
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000059.jpg)
+![](..\assets\2023-04-02-kichijoji\000059.jpg)
 
 
 
@@ -42,15 +42,15 @@ excerpt: "据说是东京人最想住的地方。"
 
 
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\1.jpg)
+![](..\assets\2023-04-02-kichijoji\1.jpg)
 
 
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\3.jpg)
+![](..\assets\2023-04-02-kichijoji\3.jpg)
 
 
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000057.jpg)
+![](..\assets\2023-04-02-kichijoji\000057.jpg)
 
 
 
@@ -58,7 +58,7 @@ excerpt: "据说是东京人最想住的地方。"
 
 
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000055.jpg)
+![](..\assets\2023-04-02-kichijoji\000055.jpg)
 
 
 
@@ -66,7 +66,7 @@ excerpt: "据说是东京人最想住的地方。"
 
 
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000056.jpg)
+![](..\assets\2023-04-02-kichijoji\000056.jpg)
 
 
 
@@ -76,35 +76,35 @@ excerpt: "据说是东京人最想住的地方。"
 
 中央总武线。
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000064.jpg)
+![](..\assets\2023-04-02-kichijoji\000064.jpg)
 
 
 
 停在一家餐厅背后的自行车。
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000060.jpg)
+![](..\assets\2023-04-02-kichijoji\000060.jpg)
 
 
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000063.jpg)
+![](..\assets\2023-04-02-kichijoji\000063.jpg)
 
 
 
 有趣的小店。
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000065.jpg)
+![](..\assets\2023-04-02-kichijoji\000065.jpg)
 
 
 
 灯牌，和行人。
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\000066.jpg)
+![](..\assets\2023-04-02-kichijoji\000066.jpg)
 
 
 
 茶花的颜色很漂亮。
 
-![](E:\photoji.github.io\assets\2023-04-02-kichijoji\2.jpg)
+![](..\assets\2023-04-02-kichijoji\2.jpg)
 
 
 
