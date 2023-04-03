@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "日本胶片日志 - 北陆（下）"
-subtitle: "Shooting films in Tokyo - Hokuriku 2"
+subtitle: "Shooting films in Japan - Hokuriku 2"
 author: ji
 categories: [ Japan, Hokuriku]
 image: assets\2023-03-29-toyama\8.jpg
