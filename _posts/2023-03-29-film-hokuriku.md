@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "日本胶片日志 - 北陆 I"
+title:  "日本胶片日志 - 北陆（上）"
 subtitle: "Shooting films in Japan - Hokuriku 1"
 author: ji
 categories: [ Japan, Hokuriku Surroundings ]
