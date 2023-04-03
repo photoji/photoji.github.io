@@ -4,7 +4,7 @@ title:  "日本胶片日志 - 镰仓·江之岛（下）"
 subtitle: "Shooting films in Japan - Kamakura & Enoshima 2"
 author: ji
 categories: [ Japan, Kanagawa]
-image: 
+image: assets\2023-04-03-kamakura2\000041.jpg
 excerpt: "蓝蓝的大海真治愈啊。"
 ---
 
