@@ -134,7 +134,8 @@ excerpt: "为什么远途旅行的时候总是会下雨呢？"
 
 ![](..\assets\2023-03-29-toyama\7.jpg)
 
-
+**2023.04.17更新**
+追加了一些照片，大多都是在飛騨高山拍摄的，放在了[另一个网页中](https://photoji.github.io/film-hidatakayama/)。
 
 **关于照片**
 
