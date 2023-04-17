@@ -7,7 +7,7 @@ author: ji
 image: assets/2023-02-28-hakodate/hkdt(7).jpg
 featured: true
 hidden: true
-description: "雪国。"
+excerpt: "欢迎乘坐前往新函馆北斗的Hayabusa超级特快列车。"
 ---
 
 Dear passengers, this is the Hayabusa super express bound for Shin-Hakodate Hokudo...
@@ -28,7 +28,7 @@ Dear passengers, this is the Hayabusa super express bound for Shin-Hakodate Hoku
 
 
 
-在新青森站，Hayabusa新干线入站的瞬间。
+在新青森站，列车入站的瞬间。
 
 ![enter description here](../assets/2023-02-28-hakodate/hkdt(6).jpg)
 
