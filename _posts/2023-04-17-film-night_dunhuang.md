@@ -5,7 +5,7 @@ subtitle: "Night in Dunhuang"
 author: ji
 categories: [China]
 image: assets\2023-04-17-dunhuang1\000025.jpg
-excerpt: "除碳电影卷夜晚手持拍摄，考验铁手的时刻到了。"
+excerpt: "夜晚手持拍摄，请叫我无情铁手。"
 ---
 
 
