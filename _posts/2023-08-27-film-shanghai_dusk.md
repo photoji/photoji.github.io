@@ -4,7 +4,7 @@ title:  "上海黄昏"
 subtitle: "Shanghai in the dusk"
 author: ji
 categories: [China]
-image: assets\2023-08-27-shanghai_night\.jpg
+image: assets\2023-08-27-shanghai_night\19.jpg
 excerpt: "自从开始打工，照片里就再也没有白天了。"
 ---
 
@@ -20,57 +20,54 @@ excerpt: "自从开始打工，照片里就再也没有白天了。"
 
 陆家嘴地铁站出来之后的一个天桥，别看照片里没什么人其实挤得吓人。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\15.jpg)
-
+![](..\assets\2023-08-27-shanghai_night\15.jpg)
 
 
 滨江大道拍到的江对岸，还剩下一点点太阳的余晖。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\20.jpg)
+![](..\assets\2023-08-27-shanghai_night\20.jpg)
 
 
 
 同样是滨江大道，江边有一个露天的餐厅，里面全是穿着时髦的年轻男女。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\17.jpg)
+![](..\assets\2023-08-27-shanghai_night\17.jpg)
 
 
 
 四个人在聊天，因为担心被发现拍照所以拍得很快，画面有点偏了。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\8.jpg)
+![](..\assets\2023-08-27-shanghai_night\8.jpg)
 
 
 
 滨江大道旁的自行车道，大家排排队骑车。
 
-
-
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\19.jpg)
+![](..\assets\2023-08-27-shanghai_night\19.jpg)
 
 
 
 静安公园旁，两个街头艺人。说是唱了首张学友的歌，虽然不知道歌名叫什么但是唱得很好听。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\10.jpg)
+![](..\assets\2023-08-27-shanghai_night\10.jpg)
 
 
 
 有个小哥在研究他们写的东西（估计是生平经历之类的）。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\9.jpg)
+![](..\assets\2023-08-27-shanghai_night\9.jpg)
 
 
 
 静安公园，一对中老年舞伴在跳舞，看上去比我这个二十几岁的程序员有活力。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\14.jpg)
+![](..\assets\2023-08-27-shanghai_night\14.jpg)
 
 
 
 静安公园再往深处走，有一个中老年乐团在演奏小白船。（城里人的生活真的丰富啊）
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\13.jpg)
+![](..\assets\2023-08-27-shanghai_night\13.jpg)
 
 
 
