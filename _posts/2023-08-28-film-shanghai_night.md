@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "昏"
-subtitle: "Shanghai in the dusk"
+title:  "夜上海"
+subtitle: "Shanghai in the night"
 author: ji
 categories: [China]
 image: assets\2023-08-27-shanghai_night\6.jpg
@@ -22,7 +22,7 @@ excerpt: "金色的夜晚。"
 
 万国建筑群旁的马路。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\1.jpg)
+![](..\assets\2023-08-27-shanghai_night\1.jpg)
 
 
 
@@ -36,19 +36,19 @@ excerpt: "金色的夜晚。"
 
 双层观光巴士，我还没坐过。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\5.jpg)
+![](..\assets\2023-08-27-shanghai_night\5.jpg)
 
 
 
 在滨江大道拍的对岸，夜晚的建筑看上去金闪闪的。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\16.jpg)
+![](..\assets\2023-08-27-shanghai_night\16.jpg)
 
 
 
 夜晚的静安寺。我总觉得静安寺不灵，可能是因为它看上去太贵了，不太符合寺庙给的刻板印象。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\18.jpg)
+![](..\assets\2023-08-27-shanghai_night\18.jpg)
 
 
 
@@ -56,7 +56,7 @@ excerpt: "金色的夜晚。"
 
 
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\11.jpg)
+![](..\assets\2023-08-27-shanghai_night\11.jpg)
 
 
 
@@ -68,19 +68,19 @@ excerpt: "金色的夜晚。"
 
 几个大爷在下棋，照片裁剪过所以显得很糊（该考虑再入一台能变焦的相机了）。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\4.jpg)
+![](..\assets\2023-08-27-shanghai_night\4.jpg)
 
 
 
 一栋很别致的房子。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\22.jpg)
+![](..\assets\2023-08-27-shanghai_night\22.jpg)
 
 
 
 这是这四个月拍的照片里，我最满意的一张，拍摄于滨江大道旁。
 
-![](E:\photoji.github.io\assets\2023-08-27-shanghai_night\12.jpg)
+![](..\assets\2023-08-27-shanghai_night\12.jpg)
 
 
 
